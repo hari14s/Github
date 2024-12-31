@@ -1,5 +1,16 @@
 # Github tutorial
 
+## How to Commit it to Local Git Repository:
+
+To intialise the git repository:
+`git init`
+
+To add it to the staging area:
+`git add .`
+
+To commit it to the local git repository:
+`git commit -m "<commit-msg>"`
+
 ## How to Push Code to GitHub:
 
 Follow these steps to push your code to a GitHub repository:
