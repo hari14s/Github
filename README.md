@@ -37,3 +37,7 @@ git push -u <remote_name> <branch_name>
 `<remote_name>`: The name of the remote repository, typically origin.
 
 `<branch_name>`: The name of the branch you are pushing to, which is usually main (default branch).
+
+## How to clone a Github Repo to your dektop:
+
+Use the command: `git clone <github-repo-url>`
